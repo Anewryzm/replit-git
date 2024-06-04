@@ -1,0 +1,1 @@
+# Esta es una nueva función que estoy desarrollando para mi asistente de IA.
